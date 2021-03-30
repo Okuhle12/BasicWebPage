@@ -1,0 +1,51 @@
+.homepage{
+    display: flex;
+    background-color: silver;width: 100%;
+    margin: 30px;
+}
+.home1{
+width: 60%;
+margin: auto;
+
+}
+
+.text {
+    font-size: large;
+    font-style: inherit; 
+    
+}
+.home1 button{
+    width: 300px;
+    padding: 50px;
+    border-radius: 20px;
+    margin: 20px;
+    color: lawngreen;
+    border: 0;
+    
+    
+
+
+}
+a {
+    text-decoration: none;
+    color: palevioletred;
+    
+}
+@media (max-width: 960px){
+.homepage {
+    display: flex;
+    width: 100%;
+    margin: auto;
+}
+}
+@media (max-width: 960px) {
+    .homepage img {
+        width: 100%;
+
+    }
+    /* .home1 { */
+        /* width: 100%; */
+        /* margin: 100px; */
+        /* padding: 50px; */
+    }
+}
