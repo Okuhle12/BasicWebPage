@@ -184,16 +184,21 @@ p {
 .places{
   padding-right: 20px;
   margin-bottom: 80px;
+
   
   
 }
 
+li {
+  font-size: 12px;
+}
 
+.z img{
+  height: 300px;
+  width: 150px;
+}
 .places .pic{
-  margin-left: 20px;
-  
-  
-  
+  margin-left: 20px; 
   
 }
 .places .image{
@@ -215,7 +220,6 @@ p {
 
 
 
-}
 .place .lit {
   order: 1;
   
